@@ -56,7 +56,3 @@ There are currently no known issues with the frontend, but some future plans for
 - Adding pagination to the job offer list.
 - Improving the search algorithm to provide better results.
 - Adding form validation to ensure that users enter valid data when creating or editing a job offer.
-
-## Credits
-
-This project was built by [Your Name], inspired by [Original Author's Name]'s Job Board backend API. Special thanks to [Original Author's Name] for providing the API and allowing others to build upon it.
