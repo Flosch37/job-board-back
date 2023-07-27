@@ -1,6 +1,6 @@
-# Job Board (Frontend)
+# Job Board (backend)
 
-This project is the frontend for a job board website that interacts with the backend API built using Node.js and MongoDB Atlas. It uses ReactJS, HTML, CSS, and various libraries such as axios, react-router-dom, and react-icons.
+
 
 ## Installation
 
